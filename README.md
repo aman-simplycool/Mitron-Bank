@@ -7,3 +7,4 @@ SQL – Querying, aggregating, and deriving key financial metrics.
 Power BI – Creating dashboards and visualizations for deeper insights.
 https://github.com/user-attachments/assets/e9b4e7c9-1d54-4967-b7bb-41cc321c817c
 https://github.com/user-attachments/assets/be00f8c9-e098-451d-ac4d-5ceb225f8002
+https://drive.google.com/file/d/1So5PlqDGghVXCK9EHt_iiBkmi_BKtV30/view?usp=sharing
